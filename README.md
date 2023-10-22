@@ -1,7 +1,7 @@
 # Sites
 Sites criados para fins de estudo e prática
 
-<h1 align="center">[Blog sobre Folclore] (https://lincolnsilva.devweb.live/folclore/) </h1>
+<h1 align="center">[Blog sobre Folclore]  </h1>
 
 <h2 align="center">sobre 📖</h2>
    
@@ -18,7 +18,7 @@ Sites criados para fins de estudo e prática
       Um aplicativo criado com o intuito de ser um ótimo local de perguntas e respostas, inspirado pelo stackOverflow e o antigo Yahoo Respostas, usando React, Typescript e aplicando meus conhecimentos de html e css.
    </p>
 
-<h1 align="center">[Programação Linear ](https://lincolnsilva.devweb.live/ProgramacaoLinear/) </h1>
+<h1 align="center">[site de Programação Linear ]</h1>
 
 <h2 align="center">sobre 📖</h2>
    
@@ -26,7 +26,7 @@ Sites criados para fins de estudo e prática
       Essa atividade foi apresentada como atividade complementar na disciplina de Programação Linear do curso de Análise e Desenvolvimento de Sistemas, ministrada pelo professor Luciano Condori, na Fatec de Carapicuíba. O objetivo é fornecer material de apoio aos alunos inscritos na disciplina.
    </p>
 
-<h1 align="center">[PETSAVERS](https://lincolnsilva.devweb.live/PetSavers)  </h1>
+<h1 align="center">[PETSAVERS] </h1>
 
 <h2 align="center">sobre 📖</h2>
    
